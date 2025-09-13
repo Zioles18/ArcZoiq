@@ -14,7 +14,7 @@
             background-color: #2f3c85;
         }
 
-        .main-header h3 {
+.main-header h3 {
             margin-left: 10px;
 
         }
@@ -25,9 +25,9 @@
             font-weight: bold;
         }
 
-        nav a:hover {
-            text-decoration: underline;
-        }
+nav a:hover {
+    text-decoration: underline;
+    }
 h5 {
   text-align: left;
   padding: 5px;
